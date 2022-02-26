@@ -11,4 +11,4 @@ Manual is available in czech language only - see [ManualCZ.pdf](ManualCZ.pdf)
 Game is licensed under GNU/GPL version 3.
 
 ## Author
-Jindra Petøík aka JPEXS
+Jindra PetÅ™Ã­k aka JPEXS
